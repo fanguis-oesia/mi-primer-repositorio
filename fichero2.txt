@@ -1,3 +1,4 @@
 el fichero dos
 actualizar fichero dos
 prueba desde sts
+actualizar con dos repo remotos
