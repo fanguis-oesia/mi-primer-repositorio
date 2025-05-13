@@ -2,5 +2,4 @@ el fichero dos
 actualizar fichero dos
 prueba desde sts
 actualizar con dos repo remotos
-
-cambios para source tree nuevo
+cambios para source tree
